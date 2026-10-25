@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/sync-navs",
+      "schedule": "30 17 * * *"
+    }
+  ]
+}
